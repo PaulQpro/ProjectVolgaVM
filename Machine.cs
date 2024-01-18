@@ -2,7 +2,7 @@
 
 namespace VolgaVM
 {
-    public class Class1
+    public class Machine
     {
     }
 }
