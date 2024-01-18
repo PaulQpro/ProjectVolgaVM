@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/VolgaVM.Tester/VolgaVM.Tester.csproj
+/VolgaVM.Tester/Program.cs
